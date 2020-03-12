@@ -12,8 +12,8 @@ DEPENDENCIES:
 
 HOW TO RUN THIS:
   1) Download ZIP file from GitHub
-  2) go to python.com and download the latest version of python
-    2a) install python using the wizard
+  2) go to python.org and download the latest version of python
+    i. install python using the wizard
   3) open your terminal (on mac this is an app called terminal)
   4) type the commands
     
