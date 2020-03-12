@@ -22,11 +22,12 @@ HOW TO RUN THIS:
     cd DownloadAutomation
     python3 downloadAutomater.py
   
-  You should get an output that resembles something along the lines of:
-        Currently moving the file: FILE NAME
-        ...
-        Currently moving the file: FILE NAME
-        Thank you! Your downloads have been sorted      
+You should get an output that resembles something along the lines of:
+    
+    Currently moving the file: FILE NAME
+    ...
+    Currently moving the file: FILE NAME
+    Thank you! Your downloads have been sorted      
 
 
 Any further questions you can ask me directly at either of the following:
