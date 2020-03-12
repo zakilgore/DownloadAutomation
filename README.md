@@ -16,10 +16,12 @@ HOW TO RUN THIS:
     2a) install python using the wizard
   3) open your terminal (on mac this is an app called terminal)
   4) type the commands
-    i. pip install watchdog
-    ii. cd Downloads
-    iii. cd DownloadAutomation
-    iiii. python3 downloadAutomater.py
+    
+    pip install watchdog
+    cd Downloads
+    cd DownloadAutomation
+    python3 downloadAutomater.py
+  
   You should get an output that resembles something along the lines of:
         Currently moving the file: FILE NAME
         ...
